@@ -22,12 +22,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] FILMES REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] FILMES NO SERVER 1[/B][/COLOR]</name>
+<externallink>link externo</externallink>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>link externo</externallink>
-<info>
-   O MELHOR DA SÉTIMA ARTE</info>
+<info>O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -35,8 +34,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] SÉRIES REDE CANAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/3-SERIES-REDCAN</externallink>
+<name>[COLOR lime][B] SÉRIES NO SERVER 1[/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SUA MARATONA ESTA AQUI </info>
@@ -47,8 +46,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] NOVELAS REDE CANAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/1C-SELNOVELAS-REDCAN</externallink>
+<name>[COLOR lime][B] NOVELAS NO SERVER 1[/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
@@ -59,10 +58,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] DESENHOS REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] DESENHOS NO SERVER 1[/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
 </channel>
 </channels>
@@ -71,8 +70,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] SEÇÕES ESPECIAIS REDE CANAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/4-ESPECIAIS-REDECAN</externallink>
+<name>[COLOR lime][B] SEÇÕES ESPECIAIS NO SERVER 1[/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>DESTAQUES DA SÉTIMA ARTE</info>
