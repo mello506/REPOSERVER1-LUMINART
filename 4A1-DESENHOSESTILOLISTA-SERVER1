@@ -1,29 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO - 1ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] Shaun o Carneiro - T01 - Dublado[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E01-10
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T01E01-10
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode01-10.LHMTv..mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E11-20
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T01E11-20
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode11-20.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E21-30
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T01E21-30
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode21-30.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E31-40
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T01E31-40
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode31-40.LHMTv.mp4?LHMTv
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO - 2ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] Shaun o Carneiro - T02 - Dublado[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E01-10
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T02E01-10
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode01-10.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E11-20
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T02E11-20
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode11-20.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E21-30
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T02E21-30
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode21-30.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E31-40
+#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Shaun o Carneiro[/COLOR][COLOR yellow] -> [/COLOR] T02E31-40
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode31-40.LHMTv.mp4?LHMTv
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="PICAPAU",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] Pica-Pau - Dublado[/COLOR]
 LINKDOFILME
@@ -422,4 +423,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/ACM21/30302.mp4
 http://sv1.nowiptv.net:8880/series/ACML2/ACM21/30303.mp4
 #EXTINF:-1 group-title="série • Pica Pau",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pica-Pau[/COLOR][COLOR yellow] ->[/COLOR]E197
 http://sv1.nowiptv.net:8880/series/ACML2/ACM21/30304.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
