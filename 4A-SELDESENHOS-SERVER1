@@ -32,42 +32,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels></channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Shaum the Sheep[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/4A1-SHAUNTHESHEEP-SERVER1</externallink>
-<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O MELHOR DOS DESENHOS NO SERVER 1</info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO3 - 1ª TEMP - 720 - DUB[/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E01-10
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode01-10.LHMTv..mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E11-20
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode11-20.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E21-30
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode21-30.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E31-40
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode31-40.LHMTv.mp4?LHMTv
-
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO - 2ª TEMP - 720 - DUB[/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E01-10
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode01-10.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E11-20
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode11-20.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E21-30
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode21-30.LHMTv.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E31-40
-http://anhanga.lhmtv.gq/babys/Shaun.T.S-S2-Episode31-40.LHMTv.mp4?LHMTv
-
-
 
 
