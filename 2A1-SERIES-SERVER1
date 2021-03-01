@@ -1,0 +1,180 @@
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B] SÉRIES NO SERVER 1 [/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AS MELHORES SÉRIES NO SERVER 1</info>
+<genre>GENERO</genre>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 1 Contra Todos[/B][/COLOR]</name>
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p12928185_b_v8_an.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série 1 Contra Todos</info>
+<genre>CRIME E DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] 1 Contra Todos[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p12928185_b_v8_an.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série 1 Contra Todos no SERVER 1</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 1 Contra Todos[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gFxQaT-1bF4</link>
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p12928185_b_v8_an.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 1 Contra Todos - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1097.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Justisa e Cega[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1099.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lei Vem do Rei[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1100.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caminho do Crime[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1102.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reino Encantado[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1103.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dr X Dr[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1105.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Verdade Nao Se Cria[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1107.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Final[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1108.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Agora e Contra Todos[/B][/COLOR]</link>
+
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p12928185_b_v8_an.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série conta a história do honesto chefe de família Cadu que vê sua vida mudar drasticamente quando ele é preso, após ser confundido com o maior traficante do país.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 1 Contra Todos - 2017 - Dublado[/B][/COLOR]</title>
+		
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1110.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Prisao e Para Sempre[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1111.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caza-Deputados[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1112.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Icaro[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1115.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pais e Filhos[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1117.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mensageiro da Verdade[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1118.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Veneno da Lata[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1120.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Brincadeira de Gente Grande[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1122.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fim do jogo[/B][/COLOR]</link>
+
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p12928185_b_v8_an.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série conta a história do honesto chefe de família Cadu que vê sua vida mudar drasticamente quando ele é preso, após ser confundido com o maior traficante do país.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 1 Contra Todos - 2018 - Dublado[/B][/COLOR]</title>
+		
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1124.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mentira E A Verdade[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1125.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Foragido[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1127.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Homem Morto[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1129.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] El Cobarde[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1128.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ayahuasca[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1131.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ka - Bum[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1133.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cesar Esta Vivo[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1134.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Paco Tem Que Morrer[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/1138.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 1 Contra Todos[/B][/COLOR]</link>
+
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p12928185_b_v8_an.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série conta a história do honesto chefe de família Cadu que vê sua vida mudar drasticamente quando ele é preso, após ser confundido com o maior traficante do país.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 1 Contra Todos - 2020 - Dublado[/B][/COLOR]</title>
+		
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48228.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pax Romana[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48229.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Todos os caminhos levam a Miami[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48230.mp4$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dinheiro e a lei[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48231.mp4$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Linhas Cruzadas[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48232.mp4$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Presente de Grego[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48233.mp4$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Criador e Criatura[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48234.mp4$$lsname=[B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pagando o Prezso[/B][/COLOR]</link>
+<link>http://n.srv1.xyz:8880/series/ACML2/ACM21/48235.mp4$$lsname=[B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Liberdade[/B][/COLOR]</link>
+
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p12928185_b_v8_an.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série conta a história do honesto chefe de família Cadu que vê sua vida mudar drasticamente quando ele é preso, após ser confundido com o maior traficante do país.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série A Maldição da Mansão Bly</info>
+<genre>SUSPENSE E TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Maldição da Mansão Bly[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de A Maldição da Mansão Bly no SERVER 1</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UDRj0ggwd3g</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly - T01 - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75919.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Mansao[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75920.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Criancas[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75921.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ecos Do Passado (Parte 1)[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75922.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Perdas E Culpa[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75923.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Altar Dos Mortos[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75924.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Cantos Secretos[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75925.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ecos Do Passado (Parte 2)[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75926.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Roupas E Joias[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75927.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Fera Na Selva[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
