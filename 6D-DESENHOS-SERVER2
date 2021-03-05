@@ -1,0 +1,146 @@
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B] DESENHOS NO SERVER 2[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O MELHOR DOS DESENHOS NO SERVER 2</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men Evolution[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada X-Men Evolution</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] X-Men Evolution[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada X-Men Evolution no SERVER 2</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men Evolution[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LduhVZTnKe8</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men Evolution - T01 - 2000 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92680.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Estrategia X [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92681.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Impulso X  [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92682.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Recruta Vampira [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92683.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mutante Esmagador [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92684.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Velocidade E Spyke [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92685.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Universo Do Meio [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92686.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Virada Da Vampira [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92687.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Camera Spyke [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92688.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Sobrevivencia Dos Mais Aptos [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92689.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Passado Sombrio [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92690.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lembrete Implacavel [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92691.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caldeirao (Parte 1) [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92692.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caldeirao (Parte 2) [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Professor X reúne uma equipe de jovens mutantes sobre-humanos para salvar o mundo das forças do mal.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men Evolution - T02 - 2001 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92693.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dores Do Crescimento [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92694.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sobre Tensao [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92695.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bada-Bing, Bada-Boom [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92696.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Diversao [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92697.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Fera De Bayville [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92698.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Deriva [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92699.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempestade Africana [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92700.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Passeios [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92701.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nas Asas Do Anjo [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92702.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Andando Na Corda bamba [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92703.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Operasao Renascimento [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92704.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Incrivel Mesmero [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92705.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dansa Das Sombras [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92706.mp4$$lsname=[B]T02E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Retirada [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92707.mp4$$lsname=[B]T02E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fator Feiticeira [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92708.mp4$$lsname=[B]T02E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dia Do Ajuste De Contas (Parte 1) [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92709.mp4$$lsname=[B]T02E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dia Do Ajuste De Contas (Parte 2) [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Professor X reúne uma equipe de jovens mutantes sobre-humanos para salvar o mundo das forças do mal.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men Evolution - T03 - 2002 - Dublado</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92710.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dia da Recuperasao [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92711.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Qualidade De Herois [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92712.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Opiniao Geral [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92713.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Do Que Um Vilao e Feito [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92714.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Beco Sem Saida [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92715.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Medidas Extremas [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92716.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Sapo, A Feiticeira E O Guarda-Roupa [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92717.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Auto Possessao [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92718.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Trancafiado [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92719.mp4$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cruzeiro [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92720.mp4$$lsname=[B]T03E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X23 [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92721.mp4$$lsname=[B]T03E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Horizonte Negro (Parte 1) [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92722.mp4$$lsname=[B]T03E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Horizonte Negro (Parte 2) [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Professor X reúne uma equipe de jovens mutantes sobre-humanos para salvar o mundo das forças do mal.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men Evolution - T04 - 2003 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92723.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Impacto [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92724.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boa Asao [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92725.mp4$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Alvo X [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92726.mp4$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Pecados Do Filho [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92727.mp4$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Levante [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92728.mp4$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempero Picante [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92729.mp4$$lsname=[B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Minima Chance [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92730.mp4$$lsname=[B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ascensao (Parte 1) [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/92731.mp4$$lsname=[B]T04E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ascensao (Parte 2) [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Professor X reúne uma equipe de jovens mutantes sobre-humanos para salvar o mundo das forças do mal.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
