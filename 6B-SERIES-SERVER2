@@ -396,7 +396,117 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/R23Hgtd/blacksails-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Black Sails</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Black Sails no SERVER 2</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rT2Y5jjBNpQ</link>
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails - T01 - 2014 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45273.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45274.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45275.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 03[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45276.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 04[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45277.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 05[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45278.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 06[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45279.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 07[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45280.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 08[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série acompanha as aventuras do Capitão Flint e seus homens, 20 anos antes dos acontecimentos do clássico de Robert Louis Stevenson, "A Ilha do Tesouro".</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails - T02 - 2015 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45281.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 01[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45282.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 02[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45283.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 03[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45284.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 04[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45285.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 05[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45286.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 06[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45287.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 07[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45288.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 08[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45289.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 09[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45290.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 10[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série acompanha as aventuras do Capitão Flint e seus homens, 20 anos antes dos acontecimentos do clássico de Robert Louis Stevenson, "A Ilha do Tesouro".</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails - T03 - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45291.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 01[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45292.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 02[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45293.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 03[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45294.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 04[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45295.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 05[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45296.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 06[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45297.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 07[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45298.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 08[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45299.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 09[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45300.mp4$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio -> 10[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série acompanha as aventuras do Capitão Flint e seus homens, 20 anos antes dos acontecimentos do clássico de Robert Louis Stevenson, "A Ilha do Tesouro".</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails - T04 - 2017 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45301.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 01[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45302.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 02[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45303.mp4$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 03[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45304.mp4$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 04[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45305.mp4$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 05[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45306.mp4$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 06[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45307.mp4$$lsname=[B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 07[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45308.mp4$$lsname=[B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 08[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45309.mp4$$lsname=[B]T04E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 09[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/45310.mp4$$lsname=[B]T04E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 10[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série acompanha as aventuras do Capitão Flint e seus homens, 20 anos antes dos acontecimentos do clássico de Robert Louis Stevenson, "A Ilha do Tesouro".</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
