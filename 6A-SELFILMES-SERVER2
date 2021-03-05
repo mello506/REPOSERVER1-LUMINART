@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]FILMES LANÇAMENTOS NO SERVER 2[/B][/COLOR]</name>
-<externallink>https://github.com/mello506/REPOSERVER1-LUMINART/raw/main/6A-FILMLANCAMENTOS-SERVER2</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/6A1-FILMLANCAMENTOS-SERVER2</externallink>
 <thumbnail>https://i.ibb.co/9NWYmJV/lancamentos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>O QUE É NOVO ESTA AQUI </info>
@@ -35,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]FILMES DE AÇÃO NO SERVER 2[/B][/COLOR] </name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/6B-FILMACAO-SERVER2</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/6A2-FILMACAO-SERVER2</externallink>
 <thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEGURE-SE NA POLTRONA AQUI É PANCADARIA E TIROTEIO</info>
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]FILMES DE WESTERN NO SERVER 2[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/6D-FILMWESTERN-SERVER2</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/6A3-FILMWESTERN-SERVER2</externallink>
 <thumbnail>http://bit.do/iconesubcat-western</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]FILMES DE ANIMAÇÃO NO SERVER 2[/B][/COLOR] </name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/6C-FILMANIMACAO-SERVER2</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPOSERVER1-LUMINART/main/6A4-FILMANIMACAO-SERVER2</externallink>
 <thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>DIVERSÃO GARANTIDA</info>
