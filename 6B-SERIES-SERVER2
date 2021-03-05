@@ -508,5 +508,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Monstro do Pântano[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/TcGPF1B/monstrpantano-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Monstro do Pântano</info>
+<genre>SUSPENSE E TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Monstro do Pântano[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/syWCFNP/monstropantano-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Monstro do Pântano no SERVER 2</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Monstro do Pântano[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AbLQmQC97V4</link>
+<thumbnail>https://i.ibb.co/syWCFNP/monstropantano-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Monstro do Pântano - T01 - 2019 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/40496.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piloto[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/40497.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Palavras A Parte[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/40498.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ele Fala[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/40499.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Escuridao Na Periferia Da Cidade[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/40500.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirija A Noite Toda[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/40501.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Preco Que Voce Paga[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/41447.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Brilhante Disfarce[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/41754.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Longa Caminhada Para Casa[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/41969.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Licao De Anatomia[/B][/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Pontas Soltas[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/syWCFNP/monstropantano-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Durante a investigação de uma epidemia em sua cidade natal, na Louisiana, Abby Arcane descobre que os pântanos locais guardam inúmeros segredos, depois que seu parceiro aparentemente morre e se transforma no Monstro do Pântano.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
