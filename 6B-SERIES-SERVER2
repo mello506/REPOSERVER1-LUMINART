@@ -138,3 +138,52 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Gambito da Rainha[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/zJX7n3N/gambitorainha-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série O Gambito da Rainha</info>
+<genre>DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Gambito da Rainha[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/q1tC9NB/gambitoranha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série O Gambito da Rainha no SERVER 2</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Gambito da Rainha[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cnqV3wsZlpo</link>
+<thumbnail>https://i.ibb.co/q1tC9NB/gambitoranha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Gambito da Rainha - T01 - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/83848.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aberturas[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/83852.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Torneio[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/83856.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Peoes Duplos[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/83860.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Meio de Jogo[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/83864.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Treinamento[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/83868.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Partidas Adiadas[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/83872.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fim de Jogo[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/q1tC9NB/gambitoranha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Elizabeth Harmon, uma jovem órfã que, na década de 1950, se torna um prodígio do xadrez ainda criança. Ao longo dos anos, a jornada da jogadora é marcada por uma ascensão rápida e impressionante, ao mesmo tempo que enfrenta traumas antigos e vícios autodestrutivos.</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
