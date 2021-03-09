@@ -23,128 +23,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Residência Hill[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/G7T0YJY/reshillr-pasta.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Série A Maldição da Residência Hill </info>
-<genre>SUSPENSE</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Maldição da Residência Hill[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/gZWbTKM/reshill-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série A Maldição da Residência Hill no SERVER 2</info>
-<genre>SUSPENSE</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Residência Hill[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uPz2mU7ghOU</link>
-<thumbnail>https://i.ibb.co/gZWbTKM/reshill-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>SUSPENSE</genre> 
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Residência Hill - T01 - 2019 - Dublado[/B][/COLOR]</title>
-
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9165.mp4$$lsname=[B]T01E00[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Steven Ve um Fantasma [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9166.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caixao aberto [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9167.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Toque [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9168.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Twin Thing [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9169.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A senhora do pescoso torto [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9170.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duas tempestades [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9171.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Elogio [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9172.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marcas de testemunhas [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9173.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Screaming Meemies [/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/9174.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Silencio, deite-se firmemente [/B][/COLOR]</link>
-		
-<thumbnail>https://i.ibb.co/gZWbTKM/reshill-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Um grupo de irmãos cresceram no que se tornaria a casa assombrada mais famosa do país. Agora, adultos, eles são forçados a retornar? mansão após uma tragédia e juntos precisarão enfrentar os fantasmas de seu passado — alguns ainda assombram suas mentes enquanto outros podem estar observando das sombras da Residência Hill. </info>
-<genre>SUSPENSE</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia[/B][/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Série Britannia</info>
-<genre>ÉPICOS</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Britannia[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série Britannia no SERVER 2</info>
-<genre>ÉPICOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao Trailer</info>
-<genre>ÉPICOS</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia - TO1 - 2018 - Dublado[/B][/COLOR]</title>
-
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14980.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 01[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14981.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 02[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14982.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 03[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14983.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 04[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14984.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 05[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14985.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 06[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14986.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 07[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14987.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 08[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/14988.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 09[/B][/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Ambientada em 43 d.C., a série segue a conquista romana da Britânia — "uma misteriosa terra governada por mulheres guerreiras selvagens e poderosos druidas que podem canalizar as poderosas forças do submundo." Rivais celtas Kerra e Antedia devem trabalhar juntas para lutar contra a invasão romana liderada por Aulo Pláucio</info>
-<genre>ÉPICOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia - TO2 - 2019 - Dublado[/B][/COLOR]</title>
-
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44871.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 01[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44872.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 02[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44873.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 03[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44874.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 04[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44875.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 05[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44876.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 06[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44877.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 07[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44878.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 08[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44879.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 09[/B][/COLOR]</link>
-<link>http://dnsx.co:80/series/vania.iptv2/vania/44880.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 10[/B][/COLOR]</link>
-	
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Ambientada em 43 d.C., a série segue a conquista romana da Britânia — "uma misteriosa terra governada por mulheres guerreiras selvagens e poderosos druidas que podem canalizar as poderosas forças do submundo." Rivais celtas Kerra e Antedia devem trabalhar juntas para lutar contra a invasão romana liderada por Aulo Pláucio</info>
-<genre>ÉPICOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lupin[/B][/COLOR]</name>
 <thumbnail>https://cosmonerd.com.br//uploads/2021/01/cosmonerd-serie-lupin-netflix-parte1-capa-miniatura.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -239,6 +117,76 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Britannia</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Britannia[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Britannia no SERVER 2</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia - TO1 - 2018 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14980.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 01[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14981.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 02[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14982.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 03[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14983.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 04[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14984.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 05[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14985.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 06[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14986.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 07[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14987.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 08[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/14988.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 09[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ambientada em 43 d.C., a série segue a conquista romana da Britânia — "uma misteriosa terra governada por mulheres guerreiras selvagens e poderosos druidas que podem canalizar as poderosas forças do submundo." Rivais celtas Kerra e Antedia devem trabalhar juntas para lutar contra a invasão romana liderada por Aulo Pláucio</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia - TO2 - 2019 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44871.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 01[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44872.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 02[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44873.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 03[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44874.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 04[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44875.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 05[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44876.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 06[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44877.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 07[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44878.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 08[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44879.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 09[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/44880.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 10[/B][/COLOR]</link>
+	
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ambientada em 43 d.C., a série segue a conquista romana da Britânia — "uma misteriosa terra governada por mulheres guerreiras selvagens e poderosos druidas que podem canalizar as poderosas forças do submundo." Rivais celtas Kerra e Antedia devem trabalhar juntas para lutar contra a invasão romana liderada por Aulo Pláucio</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bárbaros[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/KFGbSVG/barbaros-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -283,6 +231,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Residência Hill[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/G7T0YJY/reshillr-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série A Maldição da Residência Hill </info>
+<genre>SUSPENSE</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Maldição da Residência Hill[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/gZWbTKM/reshill-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série A Maldição da Residência Hill no SERVER 2</info>
+<genre>SUSPENSE</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Residência Hill[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uPz2mU7ghOU</link>
+<thumbnail>https://i.ibb.co/gZWbTKM/reshill-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>SUSPENSE</genre> 
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Residência Hill - T01 - 2019 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9165.mp4$$lsname=[B]T01E00[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Steven Ve um Fantasma [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9166.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caixao aberto [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9167.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Toque [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9168.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Twin Thing [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9169.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A senhora do pescoso torto [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9170.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duas tempestades [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9171.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Elogio [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9172.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marcas de testemunhas [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9173.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Screaming Meemies [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/9174.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Silencio, deite-se firmemente [/B][/COLOR]</link>
+		
+<thumbnail>https://i.ibb.co/gZWbTKM/reshill-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um grupo de irmãos cresceram no que se tornaria a casa assombrada mais famosa do país. Agora, adultos, eles são forçados a retornar? mansão após uma tragédia e juntos precisarão enfrentar os fantasmas de seu passado — alguns ainda assombram suas mentes enquanto outros podem estar observando das sombras da Residência Hill. </info>
+<genre>SUSPENSE</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -1147,6 +1146,99 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Traído em seu próprio país. Escravizado. Renascido como um guerreiro. A série é um relato visceral do maior gladiador de Roma. Longe de seu grande amor, Spartacus foi enviado para a sinistra e macabra arena, onde a morte iminente é o principal atrativo. Spartacus deve lutar por sua sobrevivência, favorecer inimigos e fazer política nesse novo mundo cheio de corrupção, violência, sexo e fama. </info>
 <genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cobra Kai[/B][/COLOR]</name>
+<thumbnail>http://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Cobra Kai</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Cobra Kai[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Cobra Kai no REDE CANAIS</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cobra Kai[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xLtYmhj-0Kg</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cobra Kai - TO1 - 2018 - Dublado[/B][/COLOR]</title>
+
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17718.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Degenerado [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17719.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Acerte Primeiro [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17720.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Esqueleto [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17721.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cobra Kai Para Sempre [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17722.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Contrapeso [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17723.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Alunos Novos [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17724.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Competisao [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17725.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transformasao [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17726.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Diferentes, Mas Iguais [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/17727.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Compaixao (Parte 1) [/B][/COLOR]</link>
+	
+<thumbnail>http://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Trinta e quatro anos depois do torneio de caratê All Valley, Johnny Lawrence busca a redenção reabrindo o Cobra Kai e reacende sua rivalidade com o bem-sucedido Daniel LaRusso.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cobra Kai - TO2 - 2019 - Dublado[/B][/COLOR]</title>
+	
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24055.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Compaixao (Parte 2) [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24056.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Em Busca Do Equilibrio [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24057.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fogo E Gelo [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24058.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Momento Da Verdade [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24059.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vai Com Tudo [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24060.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vire a Direita [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24061.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tregua [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24062.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Vez Do Amo [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24063.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Polvo [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/24064.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sem Compaixao [/B][/COLOR]</link>
+	
+<thumbnail>http://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Trinta e quatro anos depois do torneio de caratê All Valley, Johnny Lawrence busca a redenção reabrindo o Cobra Kai e reacende sua rivalidade com o bem-sucedido Daniel LaRusso.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cobra Kai - TO3 - 2020 - Dublado[/B][/COLOR]</title>
+	
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91611.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Consequencias [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91612.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Treinamento Ou Dom Inato? [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91613.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vai Ter Que Pagar [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91614.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caminho Certo [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91615.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Miyagi-do [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91616.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Cobra [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91617.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Obstaculos [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91618.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Bom, O Ruim e o Fera [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91619.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Natal [/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.iptv2/vania/91620.mp4$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 19 De Dezembro [/B][/COLOR]</link>
+
+<thumbnail>http://br.web.img2.acsta.net/pictures/21/01/04/12/12/0170975.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Trinta e quatro anos depois do torneio de caratê All Valley, Johnny Lawrence busca a redenção reabrindo o Cobra Kai e reacende sua rivalidade com o bem-sucedido Daniel LaRusso.</info>
+<genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
