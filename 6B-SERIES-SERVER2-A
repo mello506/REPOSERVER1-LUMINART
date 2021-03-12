@@ -23,6 +23,55 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision[/B][/COLOR]</name>
+<thumbnail>https://terrigen-cdn-dev.marvel.com/content/prod/1x/online.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série WandaVision</info>
+<genre>COMÉDIA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] WandaVision[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://terrigen-cdn-dev.marvel.com/content/prod/1x/online.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série WandaVision no SERVER 2</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1na6yruMXJA</link>
+<thumbnail>https://terrigen-cdn-dev.marvel.com/content/prod/1x/online.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>COMÉDIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision - 2021 - Dublado[/B][/COLOR]</title>
+
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/77342.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 01 [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/77343.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 02 [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/77503.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 03 [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/77700.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 04 [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/77857.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 05 [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/77926.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 06 [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/77986.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 07 [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/78069.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio -> 08 [/B][/COLOR]</link>
+
+<thumbnail>https://terrigen-cdn-dev.marvel.com/content/prod/1x/online.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] La Casa de Papel[/B][/COLOR]</name>
 <thumbnail>https://i.pinimg.com/originals/17/13/15/171315131a6b5523f9fd71689c4258e7.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
