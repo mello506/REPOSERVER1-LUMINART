@@ -133,4 +133,189 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/PQ7KsrP/vikings-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Vikings</info>
+<genre>ÉPICOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Vikings[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Vikings no SERVER 2</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=saaFe2zZYbo</link>
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings - 2013 - T01 - Dublado[/B][/COLOR]</title>
+
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3748.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ritos de Passagens [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3749.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ira dos Noordicos [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3750.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Despossuidos [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3751.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Julgamento [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3752.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Incursao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3753.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Enterro de Mortos [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3754.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Resgate de Um Rei [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3755.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sacrificar [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/3756.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tudo Muda [/B][/COLOR]</link>
+		
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série se inicia com as aventuras do guerreiro nórdico Ragnar Lodbork, uma figura histórica que viveu no período Medieval. Considerando-se descendente de Odin, Ragnar busca dominar vários territórios da Europa. Com isso, ele enfrenta a oposição do Earl Haraldson, um ex-guerreiro e agora líder de seu povo, casado com Siggy, uma jovem que tem sua lealdade dividida. </info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings - 2014 - T02 - Dublado[/B][/COLOR]</title>
+		
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6546.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Irmao de Guerra [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6547.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Invasao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6548.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Traisao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6549.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Olho por Olho [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6550.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Respostas em Sangue [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6551.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Imperdoaveis [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6552.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aguia de Sangue [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6553.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Desossado [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6554.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]A Escolha [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6555.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Orasao do Senhor [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Com um certo passar de tempo, Aslaug agora é esposa de Ragnar, com quem cria seus filhos. Rollo se tornou uma figura obscura e autodestrutiva devido à sua vergonha, porém, acaba sendo perdoado por Ragnar—embora ele o proíba de participar de uma nova expedição. Floki termina de construir seus navios, e a expedição se inicia. No entanto, no meio do caminho, uma tempestade afasta os navios de seu destino pretendido, levando os Vikings para Wessex, um reino governado por um Rei impiedoso, Ecbert. </info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings - 2015 - T03 - Dublado[/B][/COLOR]</title>
 	
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6556.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mercenario [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6557.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Andarilho [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6558.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Destino do Guerreiro [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6559.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cicatrizes [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6560.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Usurpador [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6561.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Renascido [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6562.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Paris [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6563.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Para os Portoes! [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6564.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ponto de Ruptura [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6565.mp4$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Mortos [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ragnar agora é Rei de Kattegat. Com a promessa dos saxões de novas terras, Ragnar leva seu povo a um destino incerto na costa de Wessex para acompanhar as promessas que o Rei Ecbert prometeu cumprir. Enquanto isso, Ragnar está em busca de algo mais, algo que encontra na cidade de Paris, a capital dos francos. No entanto, a cidade é impenetrável por forças externas, fazendo com que Ragnar e seu grupo de nórdicos se unam para derrubar os muros e cimentar a lenda dos Vikings na história. </info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings - 2016 - T04 - Dublado[/B][/COLOR]</title>
+		
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6566.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Boa Traisao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6567.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mate a Rainha [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6568.mp4$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Misericordia [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6569.mp4$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Estrada [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6570.mp4$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Prometido [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6571.mp4$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Que Poderia Ter Sido [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6572.mp4$$lsname=[B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Lucro e a Perda [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6573.mp4$$lsname=[B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Carreto [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6574.mp4$$lsname=[B]T04E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Morte ao Redor [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6575.mp4$$lsname=[B]T04E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Ultimo Navio [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6576.mp4$$lsname=[B]T04E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Forasteiro [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6577.mp4$$lsname=[B]T04E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Visao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6578.mp4$$lsname=[B]T04E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duas Viagens [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6579.mp4$$lsname=[B]T04E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Hora Incerta Antes da Manha [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6580.mp4$$lsname=[B]T04E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Todos os Seus Anjos [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6581.mp4$$lsname=[B]T04E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Travessias [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6582.mp4$$lsname=[B]T04E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Grande Exercito [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6583.mp4$$lsname=[B]T04E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vinganza [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6584.mp4$$lsname=[B]T04E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Vespera [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6585.mp4$$lsname=[B]T04E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Acerto de Contas [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ragnar precisa lidar com Floki, que foi preso por Bjorn devido a um crime impiedoso. Em Wessex, o retorno de Ragnar e dos Vikings é temido. Depois que seu povo é derrotado em Paris, Ragnar abandona seu reinado e deixa Kattegat. Quando retorna anos depois, ele decide voltar para a Inglaterra para corrigir os erros do passado. Com muitos dos guerreiros de Kattegat ao lado de Bjorn, Ragnar e seu filho Ivar chegam em Wessex para o acontecimento de eventos que podem mudar o mundo dos Vikings para sempre. Enquanto isso, Lagertha pretende recuperar o que acredita pertencer a ela, tomando medidas drásticas para isso, o que faz com que Ivar prometa vingança contra ela. </info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings - 2018 - T05 - Dublado[/B][/COLOR]</title>
+		
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6586.mp4$$lsname=[B]T05E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]Os Falecidos (Parte 1) [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6587.mp4$$lsname=[B]T05E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Falecidos (Parte 2) [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6588.mp4$$lsname=[B]T05E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Terra Natal [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6589.mp4$$lsname=[B]T05E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Plano [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6590.mp4$$lsname=[B]T05E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Prisioneiro [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6591.mp4$$lsname=[B]T05E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mensagem [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6592.mp4$$lsname=[B]T05E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lua Cheia [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6593.mp4$$lsname=[B]T05E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Piada [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6594.mp4$$lsname=[B]T05E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Simples Historia [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6595.mp4$$lsname=[B]T05E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Momentos de Visao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6596.mp4$$lsname=[B]T05E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Revelasao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6597.mp4$$lsname=[B]T05E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Assassinato Mais Sujo [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6598.mp4$$lsname=[B]T05E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Novo Deus [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6599.mp4$$lsname=[B]T05E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Momento Perdido [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6600.mp4$$lsname=[B]T05E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Inferno [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6601.mp4$$lsname=[B]T05E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Buda [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6602.mp4$$lsname=[B]T05E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Coisa Mais Horrivel [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6603.mp4$$lsname=[B]T05E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]Baldur [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6604.mp4$$lsname=[B]T05E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Que Acontece na Caverna [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6605.mkv$$lsname=[B]T05E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ragnarok [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> Ivar, o Desossado reivindica sua liderança sobre o Grande Exército Heathen, enquanto Lagertha reina como Rainha de Kattegat. O lendário Viking Rollo retorna a Kattegat enquanto a divisão entre a família Lothbrok culmina e os filhos de Ragnar se confrontam para dominar o mundo. A tão esperada batalha termina com uma vitória estratégica de Ivar, que tem uma vingança preparada aos seus traidores com um objetivo direto: Lagertha. Por sua vez, Lagertha se isola com seu filho Bjorn e também prepara uma grande vingança! Kattegat não terminou de queimar.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vikings - 2019 - T06 - Dublado[/B][/COLOR]</title>
+		
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6542.mp4$$lsname=[B]T06E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Novos Comesos [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6543.mp4$$lsname=[B]T06E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Profeta [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6544.mp4$$lsname=[B]T06E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fantasmas, Deuses e Caes Correndo [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/6545.mp4$$lsname=[B]T06E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Todos os Prisioneiros [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52930.mp4$$lsname=[B]T06E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Chave [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52932.mp4$$lsname=[B]T06E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Morte e a Serpente [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52927.mp4$$lsname=[B]T06E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Donzela de Gelo [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52941.mp4$$lsname=[B]T06E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Valhalla Pode Esperar [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52936.mp4$$lsname=[B]T06E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ressurreisao [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52939.mp4$$lsname=[B]T06E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Melhores Planos Estabelecidos [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52937.mp4$$lsname=[B]T06E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Dos Reis [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52940.mp4$$lsname=[B]T06E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Todas As Mudanzas [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52935.mp4$$lsname=[B]T06E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Sinal [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52938.mp4$$lsname=[B]T06E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Almas Perdidas [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52928.mp4$$lsname=[B]T06E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tudo No Mar [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52931.mp4$$lsname=[B]T06E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Palha Fina [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52933.mp4$$lsname=[B]T06E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Jangada Da Medusa [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52929.mp4$$lsname=[B]T06E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] E So Magia [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52934.mp4$$lsname=[B]T06E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Senhor Giveth... [/B][/COLOR]</link>
+<link>http://canaishd.servidor.tv:8080/series/michel12/12michel/52926.mp4$$lsname=[B]T06E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Ultimo Ato [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ragnar Lothbrok (Travis Fimmel) é o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de guerreiro implacável, Ragnar segue as tradições nórdicas e é devoto dos deuses. As lendas contam que ele descende diretamente de Odin, o deus da guerra.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
