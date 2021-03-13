@@ -383,6 +383,119 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Spartacus[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Spartacus</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Spartacus[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Spartacus no SERVER 2</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Spartacus[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3AnAR_Dyl30</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sangue e Areia - TO1 - 2011 - Dublado[/B][/COLOR]</title>
+
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410647.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Serpente Vermelha [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410648.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Juramento do Gladiador [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410649.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lendas [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410650.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Coisa no Poso [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410651.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sombra de Jogos [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410652.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coisas Delicadas [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410653.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Grandes Infelicidades [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410654.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marca da Fraternidade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410655.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Prostituta [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410656.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Partido de Favores [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410657.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Velhas Feridas [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410658.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Apocalipse [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410659.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mate a Todos [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Traído pelos romanos. Forçado à escravidão. Renascido como um Gladiador. O clássico conto do rebelde mais infame da República toma vida na gráfica e visceral série Spartacus: Blood and Sand. Separado de sua pátria e da mulher que ama, Spartacus é condenado ao mundo brutal da arena, onde sangue e morte são a principal diversão. Mas nem todas as batalhas são lutadas nas areias. Deslealdade, corrupção, e o fascínio de prazeres sensuais constantemente testarão Spartacus. Para sobreviver, ele tem que se tornar mais que um homem. Mais que um gladiador. Ele tem que se tornar uma lenda.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vingança - TO2 - 2012 - Dublado[/B][/COLOR]</title>
+
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410660.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fugitivos [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410661.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Lugar no Mundo [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410662.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Melhor [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410663.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maos Vazias [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410664.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Liberdades [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410665.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caminho Escolhido [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410666.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sacramento [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410667.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Balanza [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410668.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Monstros [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410669.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ira dos Deuses [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Traído pelos romanos. Forçado à escravidão. Renascido como um Gladiador. O clássico conto do rebelde mais infame da República toma vida na gráfica e visceral série Spartacus: Blood and Sand. Separado de sua pátria e da mulher que ama, Spartacus é condenado ao mundo brutal da arena, onde sangue e morte são a principal diversão. Mas nem todas as batalhas são lutadas nas areias. Deslealdade, corrupção, e o fascínio de prazeres sensuais constantemente testarão Spartacus. Para sobreviver, ele tem que se tornar mais que um homem. Mais que um gladiador. Ele tem que se tornar uma lenda.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Guerra dos Condenados - TO3 - 2013 - Dublado[/B][/COLOR]</title>
+
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410670.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inimigos de Roma [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410671.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lobos no Portao [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410672.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Homens de Honra [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410673.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dizimazao [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410674.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Irmãos de Sangue [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410675.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Espolios de Guerra [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410676.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mors Indecepta [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410677.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caminhos Separados [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410678.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Morrer e os Mortos [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410679.mp4$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vitoria [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Traído pelos romanos. Forçado à escravidão. Renascido como um Gladiador. O clássico conto do rebelde mais infame da República toma vida na gráfica e visceral série Spartacus: Blood and Sand. Separado de sua pátria e da mulher que ama, Spartacus é condenado ao mundo brutal da arena, onde sangue e morte são a principal diversão. Mas nem todas as batalhas são lutadas nas areias. Deslealdade, corrupção, e o fascínio de prazeres sensuais constantemente testarão Spartacus. Para sobreviver, ele tem que se tornar mais que um homem. Mais que um gladiador. Ele tem que se tornar uma lenda.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Deuses da Arena - TO4 - 2014 - Dublado[/B][/COLOR]</title>
+
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410680.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transgressoes Passadas [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410681.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Missao [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410682.mp4$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Chefe de Familia [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410683.mp4$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sob a Mascara [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410684.mp4$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avaliasao [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/410685.mp4$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Desgosto Final [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Traído pelos romanos. Forçado à escravidão. Renascido como um Gladiador. O clássico conto do rebelde mais infame da República toma vida na gráfica e visceral série Spartacus: Blood and Sand. Separado de sua pátria e da mulher que ama, Spartacus é condenado ao mundo brutal da arena, onde sangue e morte são a principal diversão. Mas nem todas as batalhas são lutadas nas areias. Deslealdade, corrupção, e o fascínio de prazeres sensuais constantemente testarão Spartacus. Para sobreviver, ele tem que se tornar mais que um homem. Mais que um gladiador. Ele tem que se tornar uma lenda.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Black Sails[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/R23Hgtd/blacksails-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
