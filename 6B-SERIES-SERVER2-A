@@ -329,6 +329,78 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Britannia[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/nDDoQkfSHBQEpjq92kjWezqJ3yk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Britannia</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Britannia[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nDDoQkfSHBQEpjq92kjWezqJ3yk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Britannia no SERVER 2</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iOsUtCtYMSY</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nDDoQkfSHBQEpjq92kjWezqJ3yk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia - TO1 - 2018 - Dublado[/B][/COLOR]</title>
+
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400598.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 01[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400599.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 02[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400600.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 03[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400601.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 04[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400602.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 05[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400603.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 06[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400604.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 07[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400605.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 08[/B][/COLOR]</link>
+<lnk>http://cmsppv.life:80/series/marta2020/marta2020/400606.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 09[/B][/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/nDDoQkfSHBQEpjq92kjWezqJ3yk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ambientada em 43 d.C., a série segue a conquista romana da Britânia — "uma misteriosa terra governada por mulheres guerreiras selvagens e poderosos druidas que podem canalizar as poderosas forças do submundo." Rivais celtas Kerra e Antedia devem trabalhar juntas para lutar contra a invasão romana liderada por Aulo Pláucio.[5]</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Britannia - TO1 - 2019 - Dublado[/B][/COLOR]</title>
+			
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400607.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 01[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400608.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 02[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400609.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 03[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400610.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 04[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400611.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 05[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400612.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 06[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400613.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 07[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400614.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 08[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400615.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 09[/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/400616.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] - Episodio -> 10[/B][/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/nDDoQkfSHBQEpjq92kjWezqJ3yk.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ambientada em 43 d.C., a série segue a conquista romana da Britânia — "uma misteriosa terra governada por mulheres guerreiras selvagens e poderosos druidas que podem canalizar as poderosas forças do submundo." Rivais celtas Kerra e Antedia devem trabalhar juntas para lutar contra a invasão romana liderada por Aulo Pláucio.[5]</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Coroner[/B][/COLOR]</name>
 <thumbnail>https://metadata-static.plex.tv/9/gracenote/9816c71c037e572ee5c2452e07369d1e.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
