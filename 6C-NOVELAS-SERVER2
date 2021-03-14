@@ -1764,3 +1764,265 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Celebridade[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Novela Celebridade</info>
+<genre>NOVELAS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Celebridade[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ozEYdM_Fslqhymmty7qwqc1DWAAiLDBQgns71slLgGHDd8K8</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da novela Celebridade no SERVER 2</info>
+<genre>NOVELAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nCkGFfqU104</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ozEYdM_Fslqhymmty7qwqc1DWAAiLDBQgns71slLgGHDd8K8</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>NOVELAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]CATEGORIA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade - 2003 - Dublado[/B][/COLOR]</title>
+
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392517.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392518.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392519.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392520.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392521.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392522.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392523.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392524.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392525.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392526.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392527.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392528.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392529.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392530.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392531.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392532.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392533.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392534.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392535.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392536.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392537.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392538.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392539.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392540.mp4$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392541.mp4$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392542.mp4$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392543.mp4$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392544.mp4$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392545.mp4$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392546.mp4$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392547.mp4$$lsname=[B]T01E31[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392548.mp4$$lsname=[B]T01E32[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392549.mp4$$lsname=[B]T01E33[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392550.mp4$$lsname=[B]T01E34[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392551.mp4$$lsname=[B]T01E35[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392552.mp4$$lsname=[B]T01E36[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392553.mp4$$lsname=[B]T01E37[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392554.mp4$$lsname=[B]T01E38[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392555.mp4$$lsname=[B]T01E39[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392556.mp4$$lsname=[B]T01E40[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392557.mp4$$lsname=[B]T01E41[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392558.mp4$$lsname=[B]T01E42[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392559.mp4$$lsname=[B]T01E43[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392560.mp4$$lsname=[B]T01E44[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392561.mp4$$lsname=[B]T01E45[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392562.mp4$$lsname=[B]T01E46[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392563.mp4$$lsname=[B]T01E47[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392564.mp4$$lsname=[B]T01E48[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392565.mp4$$lsname=[B]T01E49[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392566.mp4$$lsname=[B]T01E50[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392567.mp4$$lsname=[B]T01E51[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392568.mp4$$lsname=[B]T01E52[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392569.mp4$$lsname=[B]T01E53[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392570.mp4$$lsname=[B]T01E54[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392571.mp4$$lsname=[B]T01E55[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392572.mp4$$lsname=[B]T01E56[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392573.mp4$$lsname=[B]T01E57[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392574.mp4$$lsname=[B]T01E58[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392575.mp4$$lsname=[B]T01E59[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392576.mp4$$lsname=[B]T01E60[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392577.mp4$$lsname=[B]T01E61[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392578.mp4$$lsname=[B]T01E62[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392579.mp4$$lsname=[B]T01E63[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392580.mp4$$lsname=[B]T01E64[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392581.mp4$$lsname=[B]T01E65[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392582.mp4$$lsname=[B]T01E66[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392583.mp4$$lsname=[B]T01E67[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392584.mp4$$lsname=[B]T01E68[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392585.mp4$$lsname=[B]T01E69[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392586.mp4$$lsname=[B]T01E70[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392587.mp4$$lsname=[B]T01E71[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392588.mp4$$lsname=[B]T01E72[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392589.mp4$$lsname=[B]T01E73[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392590.mp4$$lsname=[B]T01E74[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392591.mp4$$lsname=[B]T01E75[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392592.mp4$$lsname=[B]T01E76[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392593.mp4$$lsname=[B]T01E77[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392594.mp4$$lsname=[B]T01E78[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392595.mp4$$lsname=[B]T01E79[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392596.mp4$$lsname=[B]T01E80[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392597.mp4$$lsname=[B]T01E81[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392598.mp4$$lsname=[B]T01E82[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392599.mp4$$lsname=[B]T01E83[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392600.mp4$$lsname=[B]T01E84[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392601.mp4$$lsname=[B]T01E85[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392602.mp4$$lsname=[B]T01E86[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392603.mp4$$lsname=[B]T01E87[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392604.mp4$$lsname=[B]T01E88[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392605.mp4$$lsname=[B]T01E89[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392606.mp4$$lsname=[B]T01E90[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392607.mp4$$lsname=[B]T01E91[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392608.mp4$$lsname=[B]T01E92[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392609.mp4$$lsname=[B]T01E93[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392610.mp4$$lsname=[B]T01E94[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392611.mp4$$lsname=[B]T01E95[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392612.mp4$$lsname=[B]T01E96[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392613.mp4$$lsname=[B]T01E97[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392614.mp4$$lsname=[B]T01E98[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392615.mp4$$lsname=[B]T01E99[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392616.mp4$$lsname=[B]T01E100[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392617.mp4$$lsname=[B]T01E101[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392618.mp4$$lsname=[B]T01E102[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392619.mp4$$lsname=[B]T01E103[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392620.mp4$$lsname=[B]T01E104[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392621.mp4$$lsname=[B]T01E105[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392622.mp4$$lsname=[B]T01E106[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392623.mp4$$lsname=[B]T01E107[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392624.mp4$$lsname=[B]T01E108[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392625.mp4$$lsname=[B]T01E109[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392626.mp4$$lsname=[B]T01E110[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392627.mp4$$lsname=[B]T01E111[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392628.mp4$$lsname=[B]T01E112[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392629.mp4$$lsname=[B]T01E113[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392630.mp4$$lsname=[B]T01E114[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392631.mp4$$lsname=[B]T01E115[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392632.mp4$$lsname=[B]T01E116[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392633.mp4$$lsname=[B]T01E117[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392634.mp4$$lsname=[B]T01E118[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392635.mp4$$lsname=[B]T01E119[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392636.mp4$$lsname=[B]T01E120[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392637.mp4$$lsname=[B]T01E121[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392638.mp4$$lsname=[B]T01E122[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392639.mp4$$lsname=[B]T01E123[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392640.mp4$$lsname=[B]T01E124[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392641.mp4$$lsname=[B]T01E125[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392642.mp4$$lsname=[B]T01E126[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392643.mp4$$lsname=[B]T01E127[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392644.mp4$$lsname=[B]T01E128[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392645.mp4$$lsname=[B]T01E129[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392646.mp4$$lsname=[B]T01E130[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392647.mp4$$lsname=[B]T01E131[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392648.mp4$$lsname=[B]T01E132[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392649.mp4$$lsname=[B]T01E133[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392650.mp4$$lsname=[B]T01E134[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392651.mp4$$lsname=[B]T01E135[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392652.mp4$$lsname=[B]T01E136[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392653.mp4$$lsname=[B]T01E137[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392654.mp4$$lsname=[B]T01E138[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392655.mp4$$lsname=[B]T01E139[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392656.mp4$$lsname=[B]T01E140[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392657.mp4$$lsname=[B]T01E141[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392658.mp4$$lsname=[B]T01E142[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392659.mp4$$lsname=[B]T01E143[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392660.mp4$$lsname=[B]T01E144[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392661.mp4$$lsname=[B]T01E145[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392662.mp4$$lsname=[B]T01E146[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392663.mp4$$lsname=[B]T01E147[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392664.mp4$$lsname=[B]T01E148[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392665.mp4$$lsname=[B]T01E149[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392666.mp4$$lsname=[B]T01E150[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392667.mp4$$lsname=[B]T01E151[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392668.mp4$$lsname=[B]T01E152[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392669.mp4$$lsname=[B]T01E153[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392670.mp4$$lsname=[B]T01E154[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392671.mp4$$lsname=[B]T01E155[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392672.mp4$$lsname=[B]T01E156[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392673.mp4$$lsname=[B]T01E157[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392674.mp4$$lsname=[B]T01E158[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392675.mp4$$lsname=[B]T01E159[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392676.mp4$$lsname=[B]T01E160[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392677.mp4$$lsname=[B]T01E161[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392678.mp4$$lsname=[B]T01E162[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392679.mp4$$lsname=[B]T01E163[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392680.mp4$$lsname=[B]T01E164[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392681.mp4$$lsname=[B]T01E165[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392682.mp4$$lsname=[B]T01E166[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392683.mp4$$lsname=[B]T01E167[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392684.mp4$$lsname=[B]T01E168[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392685.mp4$$lsname=[B]T01E169[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392686.mp4$$lsname=[B]T01E170[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392687.mp4$$lsname=[B]T01E171[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392688.mp4$$lsname=[B]T01E172[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392689.mp4$$lsname=[B]T01E173[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392690.mp4$$lsname=[B]T01E174[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392691.mp4$$lsname=[B]T01E175[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392692.mp4$$lsname=[B]T01E176[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392693.mp4$$lsname=[B]T01E177[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392694.mp4$$lsname=[B]T01E178[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392695.mp4$$lsname=[B]T01E179[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392696.mp4$$lsname=[B]T01E180[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392697.mp4$$lsname=[B]T01E181[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392698.mp4$$lsname=[B]T01E182[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392699.mp4$$lsname=[B]T01E183[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392700.mp4$$lsname=[B]T01E184[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392701.mp4$$lsname=[B]T01E185[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392702.mp4$$lsname=[B]T01E186[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392703.mp4$$lsname=[B]T01E187[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392704.mp4$$lsname=[B]T01E188[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392705.mp4$$lsname=[B]T01E189[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392706.mp4$$lsname=[B]T01E190[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392707.mp4$$lsname=[B]T01E191[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392708.mp4$$lsname=[B]T01E192[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392709.mp4$$lsname=[B]T01E193[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392710.mp4$$lsname=[B]T01E194[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392711.mp4$$lsname=[B]T01E195[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392712.mp4$$lsname=[B]T01E196[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392713.mp4$$lsname=[B]T01E197[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392714.mp4$$lsname=[B]T01E198[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392715.mp4$$lsname=[B]T01E199[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392716.mp4$$lsname=[B]T01E200[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392717.mp4$$lsname=[B]T01E201[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392718.mp4$$lsname=[B]T01E202[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392719.mp4$$lsname=[B]T01E203[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392720.mp4$$lsname=[B]T01E204[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392721.mp4$$lsname=[B]T01E205[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392722.mp4$$lsname=[B]T01E206[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392723.mp4$$lsname=[B]T01E207[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392724.mp4$$lsname=[B]T01E208[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392725.mp4$$lsname=[B]T01E209[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392726.mp4$$lsname=[B]T01E210[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392727.mp4$$lsname=[B]T01E211[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392728.mp4$$lsname=[B]T01E212[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392729.mp4$$lsname=[B]T01E213[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392730.mp4$$lsname=[B]T01E214[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392731.mp4$$lsname=[B]T01E215[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392732.mp4$$lsname=[B]T01E216[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392733.mp4$$lsname=[B]T01E217[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392734.mp4$$lsname=[B]T01E218[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392735.mp4$$lsname=[B]T01E219[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392736.mp4$$lsname=[B]T01E220[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/392737.mp4$$lsname=[B]T01E221[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Celebridade [/B][/COLOR]</link>
+
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ozEYdM_Fslqhymmty7qwqc1DWAAiLDBQgns71slLgGHDd8K8</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A rivalidade entre duas mulheres: a bem-sucedida empresária e ex-modelo Maria Clara, e a dissimulada e ardilosa Laura, que se aproxima da rival dizendo ser sua maior admiradora. Na verdade, ela trama tomar posse de tudo que é de Maria Clara.</info>
+<genre>NOVELAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
