@@ -1245,3 +1245,55 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Picard[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/825QWWV/startrekpicar-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Star Trek - Picard</info>
+<genre>FICÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Star Trek Picard[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Star Trek Picard no SERVER 2</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek Picard[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-Ja_AIEbLkE</link>
+<thumbnail>https://i.ibb.co/825QWWV/startrekpicar-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>FICÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek Picard - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421664.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Recordasoes [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421665.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mapas e Lendas [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421666.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fim e o Principio [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421667.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Franqueza Total [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421668.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Encrencas em Stardust City [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421669.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Caixa Impossivel [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421670.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nepenthe [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421671.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fragmentos [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421672.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Et em Arcadia Ego (Parte 1) [/B][/COLOR]</link>
+<link>http://cmsppv.life:80/series/marta2020/marta2020/421673.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Et em Arcadia Ego (Parte 2) [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/825QWWV/startrekpicar-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Quando a estrela do sistema-natal dos Romulanos virou uma supernova, Picard organizou uma frota de 10 mil naves para resgatar 900 milhões de refugiados. ... Ao se encontrarem Picard percebe que há uma ligação muito importante entre a jovem e um amigo há muito perdido.</info>
+<genre>FICÇÃO </genre>  
+</item>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
