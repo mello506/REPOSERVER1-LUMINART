@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] O Justiceiro[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Justiceiro[/B][/COLOR]</name>
 <thumbnail>https://www.estrelando.com.br/uploads/2018/12/21/jon-bernthal-1545411186.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série O Justiceiro</info>
@@ -101,7 +101,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Cobra Kai[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Cobra Kai[/B][/COLOR]</name>
 <thumbnail>https://poltronanerd.com.br/wp-content/uploads/2021/01/poltrona-cobra-kai-poster.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Cobra Kai</info>
@@ -195,7 +195,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] La Casa de Papel[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] La Casa de Papel[/B][/COLOR]</name>
 <thumbnail>https://i.pinimg.com/originals/17/13/15/171315131a6b5523f9fd71689c4258e7.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série La Casa de Papel</info>
@@ -308,7 +308,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] The Pacific[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] The Pacific[/B][/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série The Pacific</info>
@@ -359,7 +359,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Godless[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Godless[/B][/COLOR]</name>
 <thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Godless</info>
@@ -407,7 +407,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Britannia[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Britannia[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/nDDoQkfSHBQEpjq92kjWezqJ3yk.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Britannia</info>
@@ -479,7 +479,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Coroner[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Coroner[/B][/COLOR]</name>
 <thumbnail>https://metadata-static.plex.tv/9/gracenote/9816c71c037e572ee5c2452e07369d1e.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Coroner</info>
@@ -546,7 +546,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] O Homem do Castelo Alto[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Homem do Castelo Alto[/B][/COLOR]</name>
 <thumbnail>https://zint.online/wp-content/uploads/2019/11/CASTLE_001.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série O Homem do Castelo Alto</info>
@@ -660,7 +660,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] The Act[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] The Act[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Seção The Act </info>
@@ -709,7 +709,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Manifest[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Manifest[/B][/COLOR]</name>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_715001-MLB32525452919_102019-O.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Manifest</info>
@@ -788,7 +788,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Spartacus[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Spartacus[/B][/COLOR]</name>
 <thumbnail>http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/36/96/19837757.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Spartacus</info>
@@ -901,7 +901,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Black Sails[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Black Sails[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/R23Hgtd/blacksails-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Black Sails</info>
@@ -1012,7 +1012,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Vikings[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Vikings[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/PQ7KsrP/vikings-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Seção Vikings</info>
@@ -1197,7 +1197,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] A Maldição da Residência Hill[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] A Maldição da Residência Hill[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/G7T0YJY/reshillr-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série A Maldição da Residência Hill</info>
@@ -1248,7 +1248,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Star Trek - Picard[/B][/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Star Trek - Picard[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/825QWWV/startrekpicar-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Star Trek - Picard</info>
@@ -1300,7 +1300,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] CSI: Investigação Criminal[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] CSI: Investigação Criminal[/B][/COLOR]</name>
 <thumbnail>https://cdn.meadd.net/photos/full/30076339.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série CSI: Investigação Criminal</info>
@@ -1843,7 +1843,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Arquivo Morto[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Arquivo Morto[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/1vtd7sB/coldcase-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Arquivo Morto</info>
