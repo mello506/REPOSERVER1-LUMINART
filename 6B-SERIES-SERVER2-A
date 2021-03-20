@@ -2158,3 +2158,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR GREEN][B] Expresso do Amanhã[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/3TNVgKr/expamnha-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Expresso do Amanhã</info>
+<genre>FICÇÃO E FANTASIA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA A SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Expresso do Amanhã[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Expresso do Amanhã no SERVER 2</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zstihByJe9I</link>
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48228.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Primeiro, O Clima Mudou [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48229.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Preparem-se! [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48230.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Acesso e Poder [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48231.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sem Seu Criador [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48232.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Justiza Nao Embarcou [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48233.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] De Onde Menos se Espera... [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48234.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Universo e Indiferente [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48235.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Revoluzoes [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48236.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Trem Exigia Sangue [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/48237.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 994 Vagoes[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em um mundo congelado, os últimos habitantes da Terra se esforçam para viver em uma sociedade complexa dentro de um trem que está em constante movimento.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Expresso do Amanhã - 2020 - Dublado[/B][/COLOR]</title>
+		
+<link>https://SEMLINKS.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR red][B] A Hora dos Dois Motores [/B][/COLOR]</link>
+<link>https://SEMLINKS.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR red][B] A Coisa Esta Ficando Quente [/B][/COLOR]</link>
+<link>https://SEMLINKS.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Uma Grande Odisseia [/B][/COLOR]</link>
+<link>https://SEMLINKS.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Toma La, Da Ca [/B][/COLOR]</link>
+		
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em um mundo congelado, os últimos habitantes da Terra se esforçam para viver em uma sociedade complexa dentro de um trem que está em constante movimento.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
