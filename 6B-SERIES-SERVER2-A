@@ -23,6 +23,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] A Maldição da Mansão Bly[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série A Maldição da Mansão Bly</info>
+<genre>SUSPENSE E TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Maldição da Mansão Bly[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de A Maldição da Mansão Bly no SERVER 2</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UDRj0ggwd3g</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly - T01 - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60871.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mansao [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60872.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Criancas [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60873.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ecos Do Passado (Parte 1)[/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60874.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perdas E Culpa [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60875.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Altar Dos Mortos [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60876.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cantos Secretos [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60877.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ecos Do Passado (Parte 2) [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60878.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roupas E Joias [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60879.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]A Fera Na Selva [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Morrer não quer dizer partir. Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de "A Maldição da Residência Hill".</info>
+<genre>SUSPENSE E TERROR</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Justiceiro[/B][/COLOR]</name>
 <thumbnail>https://www.estrelando.com.br/uploads/2018/12/21/jon-bernthal-1545411186.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
