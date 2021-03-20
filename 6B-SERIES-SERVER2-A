@@ -752,7 +752,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Manifest[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] Manifest[/B][/COLOR]</name>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_715001-MLB32525452919_102019-O.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Manifest</info>
@@ -778,23 +778,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>DRAMA</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Manifest - TO1 - 2018 - Dublado[/B][/COLOR]</title>
 
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419314.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piloto [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419315.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reintegrasao [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419316.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Turbulencia [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419317.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bagagem Nao Reclamada [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419318.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Voo de Conexao [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419319.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fora do Radar [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419320.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] S.N.A.F.U. [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419321.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Beco Sem Saida [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419322.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Calculo Morto [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419323.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vento Cruzado [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419324.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rastros [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419325.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ponto de Fuga [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419326.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Liberado para Abordagem [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419327.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atualizar [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419328.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aterrissagem Forzada [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419329.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Hora Prevista de Partida [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41088.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piloto [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41089.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reintegrasao [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41090.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Turbulencia [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41091.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bagagem Nao Reclamada [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41092.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Voo de Conexao [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41093.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fora do Radar [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41094.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] S.N.A.F.U. [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41095.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Beco Sem Saida [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41096.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Calculo Morto [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41097.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vento Cruzado [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41098.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rastros [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41099.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ponto de Fuga [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41100.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Liberado para Abordagem [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41101.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atualizar [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41102.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aterrissagem Forzada [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41103.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Hora Prevista de Partida [/B][/COLOR]</link>
 		
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_715001-MLB32525452919_102019-O.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -805,21 +807,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Manifest - TO1 - 2019 - Dublado[/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Manifest - TO2 - 2019 - Dublado[/B][/COLOR]</title>
 
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419330.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Apertem Os Cintos [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419331.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Pista [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419332.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Falso Horizonte [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419333.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caixa-Preta [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419334.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Voo Coordenado [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419335.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Viagem de Volta [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419336.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Saida de Emergencia [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419337.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Siga em Frente [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419338.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Garrafas De Aviao [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419339.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Desvio Do Curso [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419340.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Menores Desacompanhados [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419341.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Indicativo de Chamada [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/419342.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Condisoes de Formasao de Gelo [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41104.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Apertem Os Cintos [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41105.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Pista [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41106.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Falso Horizonte [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41107.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caixa-Preta [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41108.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Voo Coordenado [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41109.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Viagem de Volta [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41110.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Saida de Emergencia [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41111.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Siga em Frente [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41112.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Garrafas De Aviao [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41113.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Desvio Do Curso [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41114.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Menores Desacompanhados [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41115.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Indicativo de Chamada [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/41116.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Condisoes de Formasao de Gelo [/B][/COLOR]</link>
 
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_715001-MLB32525452919_102019-O.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
