@@ -355,6 +355,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] O Exército Esquecido[/B][/COLOR]</name>
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série O Exército Esquecido</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Exército Esquecido[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série O Exército Esquecido no SERVER 2</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NG6PUj-TUfY</link>
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46711.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Shonan [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46712.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POW [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46713.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Challo Dilli  [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46714.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Harakiri [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46715.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maya [/B][/COLOR]</link>
+
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] The Pacific[/B][/COLOR]</name>
