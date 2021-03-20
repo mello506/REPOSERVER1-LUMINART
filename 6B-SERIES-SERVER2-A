@@ -23,56 +23,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] A Maldição da Mansão Bly[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Série A Maldição da Mansão Bly</info>
-<genre>SUSPENSE E TERROR</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Maldição da Mansão Bly[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios de A Maldição da Mansão Bly no SERVER 2</info>
-<genre>SUSPENSE E TERROR</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=UDRj0ggwd3g</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao Trailer</info>
-<genre>SUSPENSE E TERROR</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly - T01 - 2020 - Dublado[/B][/COLOR]</title>
-
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60871.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mansao [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60872.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Criancas [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60873.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ecos Do Passado (Parte 1)[/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60874.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perdas E Culpa [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60875.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Altar Dos Mortos [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60876.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cantos Secretos [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60877.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ecos Do Passado (Parte 2) [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60878.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roupas E Joias [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60879.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]A Fera Na Selva [/B][/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Morrer não quer dizer partir. Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de "A Maldição da Residência Hill".</info>
-<genre>SUSPENSE E TERROR</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Justiceiro[/B][/COLOR]</name>
 <thumbnail>https://www.estrelando.com.br/uploads/2018/12/21/jon-bernthal-1545411186.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -1290,7 +1240,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] A Maldição da Residência Hill[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] A Maldição da Residência Hill[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/G7T0YJY/reshillr-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série A Maldição da Residência Hill</info>
@@ -1320,16 +1270,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Residência Hill - TO1 - 2018 - Dublado[/B][/COLOR]</title>
 
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399639.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Steven Ve Um Fantasma [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399640.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caixao Aberto [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399641.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Toque [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399642.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coisa de Gemeos [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399643.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mosa do Pescoso Torto [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399644.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duas Tempestades [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399645.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Eulogia [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399646.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marcas de Uso [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399647.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pesadelo [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/399648.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Silencio Repousa Soberano [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43592.mp4$$lsname=[B]T01E00[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Steven Ve um Fantasma [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43593.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caixao aberto [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43594.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Toque [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43595.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coisa de Gemeos [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43596.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A senhora do pescoso torto [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43597.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duas tempestades [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43598.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Eulogia [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43599.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Marcas de Uso [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43600.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pesadelo [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/43601.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Silencio Repousa Soberano [/B][/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/r2pK6rG/reshill-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -1338,6 +1288,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] A Maldição da Mansão Bly[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série A Maldição da Mansão Bly</info>
+<genre>SUSPENSE E TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Maldição da Mansão Bly[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de A Maldição da Mansão Bly no SERVER 2</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UDRj0ggwd3g</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldição da Mansão Bly - T01 - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60871.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mansao [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60872.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Criancas [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60873.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ecos Do Passado (Parte 1)[/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60874.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perdas E Culpa [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60875.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Altar Dos Mortos [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60876.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cantos Secretos [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60877.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ecos Do Passado (Parte 2) [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60878.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roupas E Joias [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/60879.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]A Fera Na Selva [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Morrer não quer dizer partir. Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de "A Maldição da Residência Hill".</info>
+<genre>SUSPENSE E TERROR</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
