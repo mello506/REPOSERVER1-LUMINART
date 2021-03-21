@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Justiceiro[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] O Justiceiro[/B][/COLOR]</name>
 <thumbnail>https://www.estrelando.com.br/uploads/2018/12/21/jon-bernthal-1545411186.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série O Justiceiro</info>
@@ -53,19 +53,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Justiceiro - TO1 - 2017 - Dublado[/B][/COLOR]</title>
 
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378221.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tres da Madrugada [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378222.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dois Homens Mortos [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378223.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Kandahar [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378224.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reabastecimento [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378225.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gunner [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378226.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Infiltrado [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378227.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Mira [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378228.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aso Resfriado [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378229.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Este Lado Para O Inimigo [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378230.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Virtude dos Maus [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378231.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo Proximo [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378232.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lar [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378233.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Memento Mori [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63830.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tres da Madrugada [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63831.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dois Homens Mortos [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63832.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Kandahar [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63833.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reabastecimento [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63834.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gunner [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63835.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Infiltrado [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63836.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Na Mira [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63837.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aso Resfriado [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63838.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Este Lado Para O Inimigo [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63839.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Virtude dos Maus [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63840.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo Proximo [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63841.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lar [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63842.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Memento Mori [/B][/COLOR]</link>
 	
 <thumbnail>https://www.estrelando.com.br/uploads/2018/12/21/jon-bernthal-1545411186.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -77,19 +77,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Justiceiro - TO2 - 2018 - Dublado[/B][/COLOR]</title>
 		
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378234.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Briga de Bar [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378235.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lutar ou Fugir [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378236.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Agitar a Agua [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378237.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cicatrizes do Passado [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378238.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Jogo [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378239.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nakazat [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378240.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Dia Ruim [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378241.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Protetor do Meu Irmao [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378242.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Recompensa [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378243.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Sombrio [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378244.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Abismo [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378245.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rota de Colisao [/B][/COLOR]</link>
-<link>http://cmsppv.life:80/series/marta2020/marta2020/378246.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Tormenta [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63843.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Briga de Bar [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63844.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lutar ou Fugir [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63845.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Agitar a Agua [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63846.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cicatrizes do Passado [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63847.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Jogo [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63848.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nakazat [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63849.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Dia Ruim [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63850.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Protetor do Meu Irmao [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63851.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Recompensa [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63852.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Sombrio [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63853.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Abismo [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63854.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rota de Colisao [/B][/COLOR]</link>
+<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/63855.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Tormenta [/B][/COLOR]</link>
 		
 <thumbnail>https://www.estrelando.com.br/uploads/2018/12/21/jon-bernthal-1545411186.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
