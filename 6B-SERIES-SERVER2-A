@@ -23,6 +23,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision[/B][/COLOR]</name>
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção WandaVision</info>
+<genre>COMÉDIA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] WandaVision[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de WandaVision no SERVER 2</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NZxfnJt9vKo</link>
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>COMÉDIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] WandaVision T01 - 2021 - Dublado[/COLOR]</title>
+
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/1.mp4$$lsname=[B]T01E01[COLOR yellow] ->[COLOR lime] Episodio -> 01[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/2.mp4$$lsname=[B]T01E02[COLOR yellow] ->[COLOR lime] Episodio -> 02[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/3.mp4$$lsname=[B]T01E03[COLOR yellow] ->[COLOR lime] Episodio -> 03[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/4.mp4$$lsname=[B]T01E04[COLOR yellow] ->[COLOR lime] Episodio -> 04[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/5.mp4$$lsname=[B]T01E05[COLOR yellow] ->[COLOR lime] Episodio -> 05[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/6.mp4$$lsname=[B]T01E06[COLOR yellow] ->[COLOR lime] Episodio -> 06[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/7.mp4$$lsname=[B]T01E07[COLOR yellow] ->[COLOR lime] Episodio -> 07[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/8.mp4$$lsname=[B]T01E08[COLOR yellow] ->[COLOR lime] Episodio -> 08[/COLOR][/B]</link>
+<link>https://5-207-11731-1.b.cdn12.com/fson/wandavision/1dub/9.mp4$$lsname=[B]T01E09[COLOR yellow] ->[COLOR lime] Episodio -> 09[/COLOR][/B]</link>
+
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>WandaVision é uma minissérie americana criada para o Disney+ por Jac Schaeffer, baseada nos personagens da Marvel Comics Wanda Maximoff / Feiticeira Escarlate e Visão. A série é ambientada no Universo Cinematográfico da Marvel, compartilhando a continuidade com os filmes da franquia</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] O Justiceiro[/B][/COLOR]</name>
 <thumbnail>https://www.estrelando.com.br/uploads/2018/12/21/jon-bernthal-1545411186.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
